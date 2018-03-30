@@ -4,7 +4,7 @@
 
 ## 目录:
 * [第一章 ECMAScript 6 简介](ch-01)
-* [第二章 const 和 let](chapter-02)
+* [第二章 const 和 let](ch-02)
 * [第三章 解構賦值 Destructuring assignment](chapter-03)
 * [第四章 String - Peng Jie](chapter-04)
 * [第七章 陣列的拓展 - AllenHsieh](chapter-07)
